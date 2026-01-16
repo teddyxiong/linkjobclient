@@ -22,6 +22,14 @@ It helps you:
 
 Whether you're targeting FAANG tech roles, finance, product management, data science, or any high-stakes interview, Linkjob AI gives you the unfair advantage — without ever getting caught.
 
+##  Watch Demo
+
+Click the image below to see Linkjob AI in action!
+
+[![How to Use Real Time Interview Copilot](https://img.youtube.com/vi/jARS4DQHrOA/maxresdefault.jpg)](https://www.youtube.com/watch?v=jARS4DQHrOA "How to Use Real Time Interview Copilot - Linkjob AI")
+
+
+
 ## ✨ Key Features
 
 - **100% Invisible & Undetectable** – Works flawlessly during screen sharing, recording, active tab detection, and proctoring tools
