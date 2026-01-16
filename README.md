@@ -3,8 +3,12 @@
 **Your Invisible AI Interview Copilot**  
 Get real-time AI help for every interview – 100% undetectable, ultra-low latency, and perfect for coding & behavioral rounds.
 
+
+
 ![Linkjob AI ](https://www.linkjob.ai/images/unlock.webp)  
-<!-- Replace with your actual hero/banner image when available -->
+![Linkjob AI ](https://www.linkjob.ai/images/realtimeinterview.png)  
+
+
 
 ## What is Linkjob AI?
 
@@ -30,13 +34,17 @@ Whether you're targeting FAANG tech roles, finance, product management, data sci
 - **Privacy-first** – All processing handled locally, no interview data stored
 - **Standalone desktop app** – No browser needed, works on Zoom, Teams, Google Meet, and 99% of platforms
 
+![Download](https://www.linkjob.ai/images/unlock.webp)  
+
 ## 📥 Downloads (Latest Version: v0.1.9)
+
+![Linkjob AI ](https://www.linkjob.ai/images/unlock.webp)  
 
 | Platform       | Architecture    | Download Link                                                                                          | Approx. Size    |
 |----------------|-----------------|--------------------------------------------------------------------------------------------------------|-----------------|
-| macOS          | Intel (x64)     | [LinkjobAI_0.1.9_x64.dmg](https://github.com/teddyxiong/linkjobclient/releases/download/v0.1.9/LinkjobAI_0.1.9_x64.dmg)          | ~80–120 MB     |
-| macOS          | Apple Silicon   | [LinkjobAI_0.1.9_aarch64.dmg](https://github.com/teddyxiong/linkjobclient/releases/download/v0.1.9/LinkjobAI_0.1.9_aarch64.dmg) | ~80–110 MB     |
-| Windows        | x64             | [LinkjobAI_0.1.9_x64-setup.exe](https://github.com/teddyxiong/linkjobclient/releases/download/v0.1.9/LinkjobAI_0.1.9_x64-setup.exe) | ~70–100 MB     |
+| macOS          | Intel (x64)     | [LinkjobAI_0.1.9_x64.dmg](https://github.com/teddyxiong/linkjobclient/releases/download/v0.1.9/LinkjobAI_0.1.9_x64.dmg)          | 12 MB     |
+| macOS          | Apple Silicon   | [LinkjobAI_0.1.9_aarch64.dmg](https://github.com/teddyxiong/linkjobclient/releases/download/v0.1.9/LinkjobAI_0.1.9_aarch64.dmg) | 11 MB     |
+| Windows        | x64             | [LinkjobAI_0.1.9_x64-setup.exe](https://github.com/teddyxiong/linkjobclient/releases/download/v0.1.9/LinkjobAI_0.1.9_x64-setup.exe) | 7 MB     |
 
 > **macOS Note**  
 > After downloading, you may need to right-click → Open to bypass Gatekeeper (normal for apps not in App Store).  
