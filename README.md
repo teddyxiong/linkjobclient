@@ -3,7 +3,7 @@
 **Your Invisible AI Interview Copilot**  
 Get real-time AI help for every interview – 100% undetectable, ultra-low latency, and perfect for coding & behavioral rounds.
 
-![Linkjob AI Hero](https://via.placeholder.com/1280x400/0a2540/ffffff?text=Linkjob+AI+-+Invisible+Interview+Copilot)  
+![Linkjob AI ](https://www.linkjob.ai/images/unlock.webp)  
 <!-- Replace with your actual hero/banner image when available -->
 
 ## What is Linkjob AI?
