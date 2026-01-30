@@ -52,7 +52,7 @@ Click the image below to see Linkjob AI in action!
 |----------------|-----------------|--------------------------------------------------------------------------------------------------------|-----------------|
 | macOS          | Intel (x64)     | [LinkjobAI_0.1.9_x64.dmg](https://github.com/teddyxiong/linkjobclient/releases/download/0.2.0/LinkjobAI_0.2.0_x64.dmg)          | 12 MB     |
 | macOS          | Apple Silicon   | [LinkjobAI_0.1.9_aarch64.dmg](https://github.com/teddyxiong/linkjobclient/releases/download/0.2.0/LinkjobAI_0.2.0_aarch64.dmg) | 11 MB     |
-| Windows        | x64             | [LinkjobAI_0.1.9_x64-setup.exe]([https://github.com/teddyxiong/linkjobclient/releases/download/v0.1.9/LinkjobAI_0.1.9_x64-setup.exe](https://github.com/teddyxiong/linkjobclient/releases/download/0.2.0/LinkjobAI_0.2.0_x64-setup.exe)) | 7 MB     |
+| Windows        | x64             | [LinkjobAI_0.1.9_x64-setup.exe](https://github.com/teddyxiong/linkjobclient/releases/download/0.2.0/LinkjobAI_0.2.0_x64-setup.exe)) | 7 MB     |
 
 More platform go to [Release Version](https://github.com/teddyxiong/linkjobclient/releases/tag/0.2.0)
 
