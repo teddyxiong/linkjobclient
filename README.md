@@ -50,11 +50,10 @@ Click the image below to see Linkjob AI in action!
 
 | Platform       | Architecture    | Download Link                                                                                          | Approx. Size    |
 |----------------|-----------------|--------------------------------------------------------------------------------------------------------|-----------------|
-| macOS          | Intel (x64)     | [LinkjobAI_0.2.0_x64.dmg](https://github.com/teddyxiong/linkjobclient/releases/download/0.2.1/LinkjobAI_0.2.1_x64.dmg)          | 12 MB     |
-| macOS          | Apple Silicon   | [LinkjobAI_0.2.0_aarch64.dmg](https://github.com/teddyxiong/linkjobclient/releases/download/0.2.1/LinkjobAI_0.2.1_aarch64.dmg) | 11 MB     |
-| Windows        | x64             | [LinkjobAI_0.2.0_x64-setup.exe](https://github.com/teddyxiong/linkjobclient/releases/download/0.2.1/LinkjobAI_0.2.1_x64-setup.exe)) | 7 MB     |
+| macOS          | Intel (x64)     | [LinkjobAI_0.2.6_x64.dmg](https://www.linkjob.ai/download/026/LinkjobAI_0.2.6_x64.dmg)          | 12 MB     |
+| macOS          | Apple Silicon   | [LinkjobAI_0.2.6_aarch64.dmg](https://www.linkjob.ai/download/026/LinkjobAI_0.2.6_aarch64.dmg) | 12 MB     |
+| Windows        | x64             | [LinkjobAI_0.2.6_x64-setup.exe](https://www.linkjob.ai/download/026/LinkjobAI_0.2.6_x64-setup.exe)) | 8 MB     |
 
-More platform go to [Release Version](https://github.com/teddyxiong/linkjobclient/releases/tag/0.2.1)
 
 > **macOS Note**  
 > After downloading, you may need to right-click → Open to bypass Gatekeeper (normal for apps not in App Store).  
