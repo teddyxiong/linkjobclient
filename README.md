@@ -52,7 +52,7 @@ Click the image below to see Linkjob AI in action!
 |----------------|-----------------|--------------------------------------------------------------------------------------------------------|-----------------|
 | macOS          | Intel (x64)     | [LinkjobAI_0.2.6_x64.dmg](https://www.linkjob.ai/download/026/LinkjobAI_0.2.6_x64.dmg)          | 12 MB     |
 | macOS          | Apple Silicon   | [LinkjobAI_0.2.6_aarch64.dmg](https://www.linkjob.ai/download/026/LinkjobAI_0.2.6_aarch64.dmg) | 12 MB     |
-| Windows        | x64             | [LinkjobAI_0.2.6_x64-setup.exe](https://www.linkjob.ai/download/026/LinkjobAI_0.2.6_x64-setup.exe)) | 8 MB     |
+| Windows        | x64             | [LinkjobAI_0.2.6_x64-setup.exe](https://www.linkjob.ai/download/026/LinkjobAI_0.2.6_x64-setup.exe) | 8 MB     |
 
 
 > **macOS Note**  
