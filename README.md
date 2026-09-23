@@ -62,6 +62,8 @@ See how Linkjob AI provides real-time interview assistance in a desktop overlay.
 
 [![Watch the Linkjob AI interview copilot demo](https://img.youtube.com/vi/jARS4DQHrOA/maxresdefault.jpg)](https://www.youtube.com/watch?v=jARS4DQHrOA)
 
+For step-by-step tutorials covering the app, the coding copilot, the real-time copilot, and setup for Zoom, Google Meet, Teams, Webex, Lark, CoderPad, and HackerRank, see [**How-To Video Tutorials**](./howto.md).
+
 ## 💻 Supported Platforms
 
 Use Linkjob AI alongside meeting tools such as **Zoom, Google Meet, Microsoft Teams, Cisco Webex, and Lark**, and coding environments such as **HackerRank, CodeSignal, and CoderPad**.
@@ -90,6 +92,8 @@ For newer versions and installation instructions, visit the [official Linkjob AI
 3. **Configure audio and permissions** for the features you will use, including audio input and screen capture.
 4. **Choose an AI model** included in your plan and add your resume, job description, or custom instructions.
 5. **Run a practice session** to check audio capture, screenshot assistance, response quality, and screen-sharing behavior.
+
+Before your first real session, go through the [**Required Setup**](./required-setup.md) checklist — Zoom configuration, audio output, VPN, and System Prompt preparation.
 
 A **30-minute free trial** is currently available. Visit the [pricing page](https://www.linkjob.ai/pricing/) for trial information and plan options.
 
