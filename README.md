@@ -1,91 +1,114 @@
-# Linkjob AI
+# Linkjob AI — Real-Time AI Interview Assistant
 
-**Your Invisible AI Interview Copilot**  
-Get real-time AI help for every interview – 100% undetectable, ultra-low latency, and perfect for coding & behavioral rounds.
+**Your invisible interview copilot for clearer answers and smarter coding support.**
 
+Get real-time guidance for interview questions, turn coding screenshots into actionable solutions, and receive suggestions tailored to your experience and the role you want.
 
+[Official Website](https://www.linkjob.ai/) · [Download Linkjob AI](https://www.linkjob.ai/downloads/) · [Plans & AI Models](https://www.linkjob.ai/pricing/)
 
-![Linkjob AI ](https://www.linkjob.ai/images/unlock.webp)  
-![Linkjob AI ](https://www.linkjob.ai/images/realtimeinterview.png)  
+![Linkjob AI — Invisible AI Interview Copilot](https://images.linkjob.ai/images/features/interview-copilot-cover.webp)
 
+## What Is Linkjob AI?
 
+Linkjob AI is a desktop **AI interview assistant** for live interviews, coding assessments, and interview practice. It combines real-time audio understanding, screenshot analysis, and personalized AI responses in a floating desktop interface.
 
-## What is Linkjob AI?
+Whether you are explaining a past project, working through an algorithm, or answering a system design question, Linkjob AI helps you organize your thoughts and communicate your approach.
 
-Linkjob AI is the **#1 undetectable desktop AI copilot** that gives you real-time, intelligent assistance during live interviews and online coding assessments.
-
-It helps you:
-- Get instant, high-quality answers to interview questions
-- Analyze coding test screenshots (HackerRank, CodeSignal, CoderPad, etc.)
-- Receive personalized suggestions based on your resume & job description
-- Stay completely invisible – even during screen sharing and proctoring
-
-Whether you're targeting FAANG tech roles, finance, product management, data science, or any high-stakes interview, Linkjob AI gives you the unfair advantage — without ever getting caught.
-
-##  Watch Demo
-
-Click the image below to see Linkjob AI in action!
-
-[![How to Use Real Time Interview Copilot](https://img.youtube.com/vi/jARS4DQHrOA/maxresdefault.jpg)](https://www.youtube.com/watch?v=jARS4DQHrOA "How to Use Real Time Interview Copilot - Linkjob AI")
-
-
+Available for **Windows, macOS, and Linux**.
 
 ## ✨ Key Features
 
-- **100% Invisible & Undetectable** – Works flawlessly during screen sharing, recording, active tab detection, and proctoring tools
-- **Ultra-low latency** – Answers in under 1 second (as fast as 0.23s in optimal conditions)
-- **Real-time coding help** – Automatic/partial screen capture, step-by-step reasoning, commented code, multi-screenshot support
-- **Behavioral & general interview support** – Smart, personalized, never off-topic answers
-- **Stealth overlay** – Floating answer panel stays on top, maintains natural eye contact with webcam
-- **Supports 80+ AI models** – GPT, Claude, Gemini, Grok, DeepSeek and more
-- **Multilingual** – Real-time understanding and responses in multiple languages
-- **Privacy-first** – All processing handled locally, no interview data stored
-- **Standalone desktop app** – No browser needed, works on Zoom, Teams, Google Meet, and 99% of platforms
+### Real-Time Interview Assistance
 
-![Download](https://www.linkjob.ai/images/unlock.webp)  
+Receive structured suggestions as interview questions come up. Use them to identify the key points, organize your response, and keep up with follow-up questions.
 
-## 📥 Downloads (Latest Version: v0.1.9)
+Explore the [real-time AI interview copilot](https://www.linkjob.ai/interview-copilot/).
 
-![Linkjob AI ](https://www.linkjob.ai/images/unlock.webp)  
+### Screenshot-Based Coding Help
 
-| Platform       | Architecture    | Download Link                                                                                          | Approx. Size    |
-|----------------|-----------------|--------------------------------------------------------------------------------------------------------|-----------------|
-| macOS          | Intel (x64)     | [LinkjobAI_0.3.1_x64.dmg](https://www.linkjob.ai/download/031/LinkjobAI_0.3.1_x64.dmg)          | 12 MB     |
-| macOS          | Apple Silicon   | [LinkjobAI_0.3.1_aarch64.dmg](https://www.linkjob.ai/download/031/LinkjobAI_0.3.1_aarch64.dmg) | 12 MB     |
-| Windows        | x64             | [LinkjobAI_0.3.1_x64-setup.exe](https://www.linkjob.ai/download/031/LinkjobAI_0.3.1_x64-setup.exe) | 8 MB     |
+Capture coding questions on your screen and get help breaking down the problem, choosing an approach, generating code, debugging errors, and improving performance. Work through algorithms, edge cases, and technical explanations with AI guidance.
 
+Explore the [AI coding interview assistant](https://www.linkjob.ai/coding-interview-copilot/).
 
-> **macOS Note**  
-> After downloading, you may need to right-click → Open to bypass Gatekeeper (normal for apps not in App Store).  
-> Some security prompts may appear due to stealth features — the app is 100% safe.
+### Answers Personalized to Your Background
+
+Add your resume and job description to give the AI relevant context. Customize your prompts to make suggestions more specific to your experience, target role, and interview scenario.
+
+### Stealth Desktop Overlay
+
+Keep guidance close to your working area with a movable, translucent overlay designed to stay out of supported screen-sharing and recording captures.
+
+Platform-specific settings matter. Complete the required setup and test your screen-sharing configuration before use.
+
+### Multiple AI Models
+
+Choose from GPT, Claude, Gemini, and Grok models available with your plan. Switch between included models to balance response speed and reasoning depth.
+
+See the [current model lineup and plan details](https://www.linkjob.ai/pricing/).
+
+### Behavioral, Technical, and Mock Interviews
+
+Use the assistant for behavioral questions, coding challenges, system design discussions, and mock interview practice. Tailor your preparation to the interview format and role.
+
+### Multilingual Support
+
+Get real-time interview assistance in multiple languages, with responses suited to your interview language.
+
+![Linkjob AI providing personalized interview guidance](https://www.linkjob.ai/images/realtimeinterview.png)
+
+## 🎥 Watch the Demo
+
+See how Linkjob AI provides real-time interview assistance in a desktop overlay.
+
+[![Watch the Linkjob AI interview copilot demo](https://img.youtube.com/vi/jARS4DQHrOA/maxresdefault.jpg)](https://www.youtube.com/watch?v=jARS4DQHrOA)
+
+## 💻 Supported Platforms
+
+Use Linkjob AI alongside meeting tools such as **Zoom, Google Meet, Microsoft Teams, Cisco Webex, and Lark**, and coding environments such as **HackerRank, CodeSignal, and CoderPad**.
+
+> **Zoom setup:** Zoom requires a specific screen-sharing configuration. Follow the setup guidance in the [official website FAQ](https://www.linkjob.ai/) and test it before your session.
+
+## 📥 Downloads — v0.3.4
+
+Choose the installer that matches your operating system and processor.
+
+| Platform | Architecture / Package | Download |
+| --- | --- | --- |
+| macOS | Intel — x64 | [Download DMG](https://www.linkjob.ai/download/latest/LinkjobAI_0.3.4_x64.dmg) |
+| macOS | Apple Silicon — ARM64 | [Download DMG](https://www.linkjob.ai/download/latest/LinkjobAI_0.3.4_aarch64.dmg) |
+| Windows | x64 | [Download EXE](https://www.linkjob.ai/download/latest/LinkjobAI_0.3.4_x64-setup.exe) |
+| Linux | x64 — RPM | [Download RPM](https://www.linkjob.ai/download/latest/LinkjobAI-0.3.4-1.x86_64.rpm) |
+| Linux | x64 — AppImage | [Download AppImage](https://www.linkjob.ai/download/latest/LinkjobAI_0.3.4_amd64.AppImage) |
+| Linux | x64 — DEB | [Download DEB](https://www.linkjob.ai/download/latest/LinkjobAI_0.3.4_amd64.deb) |
+
+For newer versions and installation instructions, visit the [official Linkjob AI download page](https://www.linkjob.ai/downloads/).
 
 ## 🚀 Quick Start
 
-1. Download the version matching your system
-2. Install and launch Linkjob AI
-3. Grant necessary permissions (audio/screen for full functionality)
-4. Connect your preferred AI model(s)
-5. Upload resume & job description for personalized help
-6. Activate Live Interview or Coding Copilot when ready
-7. Stay calm — you've got invisible backup!
+1. **Download and install** the version matching your system.
+2. **Open Linkjob AI** and follow the dashboard instructions to activate your trial or plan.
+3. **Configure audio and permissions** for the features you will use, including audio input and screen capture.
+4. **Choose an AI model** included in your plan and add your resume, job description, or custom instructions.
+5. **Run a practice session** to check audio capture, screenshot assistance, response quality, and screen-sharing behavior.
 
-## 🌐 Official Website
+A **30-minute free trial** is currently available. Visit the [pricing page](https://www.linkjob.ai/pricing/) for trial information and plan options.
 
-https://www.linkjob.ai  
-→ Features, live demos, blog, FAQ, success stories, and downloads
+## 🔒 Privacy & Responsible Use
 
-## ⚠️ Responsible Use
+Read our [Privacy Policy](https://www.linkjob.ai/privacy-policy/) for information about data handling.
 
-Linkjob AI is intended as a powerful preparation and practice tool.  
-Please use it ethically and in compliance with the rules of any interview process or platform.
+Use Linkjob AI in accordance with the rules of your interview, assessment, or organization. Review AI-generated suggestions before relying on them.
 
-## ❤️ Feedback & Support
+## 💬 Feedback & Support
 
-Bugs, feature requests, or just want to share your success story?  
-Feel free to open an issue here!
+For bugs or feature requests, open an issue in this repository and include your operating system, app version, and steps to reproduce the problem.
 
-If Linkjob AI helped you land your dream offer — drop a star! ⭐
+For account, activation, or billing assistance, contact [support@linkjob.ai](mailto:support@linkjob.ai). Do not post license keys, payment details, or other private information in public issues.
+
+Found Linkjob AI helpful? **Give the repository a star.** ⭐
 
 ---
 
-**Go crush that interview. You've got this!** 🚀
+**Prepare with purpose. Answer with clarity.**
+
+[Get started with Linkjob AI](https://www.linkjob.ai/downloads/)
