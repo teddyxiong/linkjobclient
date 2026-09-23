@@ -2,6 +2,15 @@
 
 **Your invisible interview copilot for clearer answers and smarter coding support.**
 
+<div align="center">
+
+[![Downloads](https://img.shields.io/badge/Downloads-19,696-2563EB?style=for-the-badge&logo=download&logoColor=white)](https://www.linkjob.ai/downloads/)
+[![Free Trials Started](https://img.shields.io/badge/Free%20Trials%20Started-18,332-16A34A?style=for-the-badge&logo=rocket&logoColor=white)](./download.md)
+
+**19,696 downloads** · **18,332 free trials started**
+
+</div>
+
 Get real-time guidance for interview questions, turn coding screenshots into actionable solutions, and receive suggestions tailored to your experience and the role you want.
 
 [Official Website](https://www.linkjob.ai/) · [Download Linkjob AI](https://www.linkjob.ai/downloads/) · [Plans & AI Models](https://www.linkjob.ai/pricing/)
