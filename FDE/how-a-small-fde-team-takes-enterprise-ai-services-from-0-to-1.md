@@ -1,6 +1,6 @@
 # A 10,000-Word Guide: How a Small FDE Team Takes Enterprise AI Services From 0 to 1 — Customer Acquisition, Pricing, Delivery, and Acceptance (With a Complete SOP Framework)
 
-*Translated from the original X article by [Hedy Zhang (@xiaomanhedy)](https://x.com/xiaomanhedy/status/2093271484311491002).*
+**Source:** [@xiaomanhedy (Hedy Zhang)](https://x.com/xiaomanhedy/status/2093271484311491002)
 
 Many people's first impression of enterprise AI services is that they are purely technical work:
 
