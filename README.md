@@ -1,3 +1,5 @@
+🌐 [English](README.md) · [日本語](README.ja.md) · [Español](README.es.md) · [Italiano](README.it.md) · [العربية](README.ar.md) · [Polski](README.pl.md) · [繁體中文](README.zh-hant.md) · [한국어](README.ko.md) · [Français](README.fr.md) · [Português](README.pt.md)
+
 # Linkjob AI — Real-Time AI Interview Assistant
 
 **Your invisible interview copilot for clearer answers and smarter coding support.**
