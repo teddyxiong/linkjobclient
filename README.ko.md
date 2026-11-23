@@ -81,18 +81,18 @@ Linkjob AI가 데스크톱 오버레이에서 실시간 면접 지원을 제공�
 
 > **Zoom 설정:** Zoom에는 특정 화면 공유 구성이 필요합니다. [공식 웹사이트 FAQ](https://www.linkjob.ai/)의 설정 안내를 따르고 세션 전에 테스트하세요.
 
-## 📥 다운로드 — v0.3.4
+## 📥 다운로드 — v0.6.0
 
 운영체제와 프로세서에 맞는 설치 프로그램을 선택하세요.
 
 | 플랫폼 | 아키텍처 / 패키지 | 다운로드 |
 | --- | --- | --- |
-| macOS | Intel — x64 | [DMG 다운로드](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.3.4/LinkjobAI_0.3.4_x64.dmg) |
-| macOS | Apple Silicon — ARM64 | [DMG 다운로드](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.3.4/LinkjobAI_0.3.4_aarch64.dmg) |
-| Windows | x64 | [EXE 다운로드](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.3.4/LinkjobAI_0.3.4_x64-setup.exe) |
-| Linux | x64 — RPM | [RPM 다운로드](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.3.4/LinkjobAI-0.3.4-1.x86_64.rpm) |
-| Linux | x64 — AppImage | [AppImage 다운로드](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.3.4/LinkjobAI_0.3.4_amd64.AppImage) |
-| Linux | x64 — DEB | [DEB 다운로드](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.3.4/LinkjobAI_0.3.4_amd64.deb) |
+| macOS | Intel — x64 | [DMG 다운로드](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.0/LinkjobAI_0.6.0_x64.dmg) |
+| macOS | Apple Silicon — ARM64 | [DMG 다운로드](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.0/LinkjobAI_0.6.0_aarch64.dmg) |
+| Windows | x64 | [EXE 다운로드](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.0/LinkjobAI_0.6.0_x64-setup.exe) |
+| Linux | x64 — RPM | [RPM 다운로드](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.0/LinkjobAI-0.6.0-1.x86_64.rpm) |
+| Linux | x64 — AppImage | [AppImage 다운로드](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.0/LinkjobAI_0.6.0_amd64.AppImage) |
+| Linux | x64 — DEB | [DEB 다운로드](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.0/LinkjobAI_0.6.0_amd64.deb) |
 
 최신 버전과 설치 방법은 [공식 Linkjob AI 다운로드 페이지](https://www.linkjob.ai/downloads/)를 방문하세요.
 

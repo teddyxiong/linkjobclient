@@ -81,18 +81,18 @@ Linkjob AI هو **مساعد مقابلات يعمل بالذكاء الاصطن
 
 > **إعداد Zoom:** يتطلب Zoom إعدادًا محددًا لمشاركة الشاشة. اتبع إرشادات الإعداد في [الأسئلة الشائعة للموقع الرسمي](https://www.linkjob.ai/) واختبرها قبل جلستك.
 
-## 📥 التنزيلات — v0.3.4
+## 📥 التنزيلات — v0.6.0
 
 اختر برنامج التثبيت المناسب لنظام التشغيل والمعالج لديك.
 
 | المنصة | البنية / الحزمة | التنزيل |
 | --- | --- | --- |
-| macOS | Intel — x64 | [تنزيل DMG](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.3.4/LinkjobAI_0.3.4_x64.dmg) |
-| macOS | Apple Silicon — ARM64 | [تنزيل DMG](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.3.4/LinkjobAI_0.3.4_aarch64.dmg) |
-| Windows | x64 | [تنزيل EXE](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.3.4/LinkjobAI_0.3.4_x64-setup.exe) |
-| Linux | x64 — RPM | [تنزيل RPM](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.3.4/LinkjobAI-0.3.4-1.x86_64.rpm) |
-| Linux | x64 — AppImage | [تنزيل AppImage](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.3.4/LinkjobAI_0.3.4_amd64.AppImage) |
-| Linux | x64 — DEB | [تنزيل DEB](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.3.4/LinkjobAI_0.3.4_amd64.deb) |
+| macOS | Intel — x64 | [تنزيل DMG](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.0/LinkjobAI_0.6.0_x64.dmg) |
+| macOS | Apple Silicon — ARM64 | [تنزيل DMG](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.0/LinkjobAI_0.6.0_aarch64.dmg) |
+| Windows | x64 | [تنزيل EXE](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.0/LinkjobAI_0.6.0_x64-setup.exe) |
+| Linux | x64 — RPM | [تنزيل RPM](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.0/LinkjobAI-0.6.0-1.x86_64.rpm) |
+| Linux | x64 — AppImage | [تنزيل AppImage](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.0/LinkjobAI_0.6.0_amd64.AppImage) |
+| Linux | x64 — DEB | [تنزيل DEB](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.0/LinkjobAI_0.6.0_amd64.deb) |
 
 للحصول على إصدارات أحدث وتعليمات التثبيت، تفضّل بزيارة [صفحة التنزيل الرسمية لـ Linkjob AI](https://www.linkjob.ai/downloads/).
 

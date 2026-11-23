@@ -81,18 +81,18 @@ Linkjob AI は、ライブ面接、コーディングテスト、面接練習の
 
 > **Zoom のセットアップ:** Zoom では特定の画面共有設定が必要です。[公式サイトの FAQ](https://www.linkjob.ai/) のセットアップ手順に従い、セッション前にテストしてください。
 
-## 📥 ダウンロード — v0.3.4
+## 📥 ダウンロード — v0.6.0
 
 お使いの OS とプロセッサに合ったインストーラーをお選びください。
 
 | プラットフォーム | アーキテクチャ / パッケージ | ダウンロード |
 | --- | --- | --- |
-| macOS | Intel — x64 | [DMG をダウンロード](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.3.4/LinkjobAI_0.3.4_x64.dmg) |
-| macOS | Apple Silicon — ARM64 | [DMG をダウンロード](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.3.4/LinkjobAI_0.3.4_aarch64.dmg) |
-| Windows | x64 | [EXE をダウンロード](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.3.4/LinkjobAI_0.3.4_x64-setup.exe) |
-| Linux | x64 — RPM | [RPM をダウンロード](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.3.4/LinkjobAI-0.3.4-1.x86_64.rpm) |
-| Linux | x64 — AppImage | [AppImage をダウンロード](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.3.4/LinkjobAI_0.3.4_amd64.AppImage) |
-| Linux | x64 — DEB | [DEB をダウンロード](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.3.4/LinkjobAI_0.3.4_amd64.deb) |
+| macOS | Intel — x64 | [DMG をダウンロード](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.0/LinkjobAI_0.6.0_x64.dmg) |
+| macOS | Apple Silicon — ARM64 | [DMG をダウンロード](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.0/LinkjobAI_0.6.0_aarch64.dmg) |
+| Windows | x64 | [EXE をダウンロード](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.0/LinkjobAI_0.6.0_x64-setup.exe) |
+| Linux | x64 — RPM | [RPM をダウンロード](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.0/LinkjobAI-0.6.0-1.x86_64.rpm) |
+| Linux | x64 — AppImage | [AppImage をダウンロード](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.0/LinkjobAI_0.6.0_amd64.AppImage) |
+| Linux | x64 — DEB | [DEB をダウンロード](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.0/LinkjobAI_0.6.0_amd64.deb) |
 
 新しいバージョンとインストール手順については、[公式 Linkjob AI ダウンロードページ](https://www.linkjob.ai/downloads/)をご覧ください。
 
