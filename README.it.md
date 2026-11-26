@@ -116,17 +116,17 @@ Usa Linkjob AI insieme a strumenti di riunione come **Zoom, Google Meet, Microso
 
 > **Configurazione di Zoom:** solo l'app desktop di Zoom richiede una configurazione specifica della condivisione schermo. Segui le indicazioni nelle [FAQ del sito ufficiale](https://www.linkjob.ai/) e provala prima della sessione. Sulle altre piattaforme non serve alcuna configurazione aggiuntiva.
 
-## 📥 Download — v0.6.2
+## 📥 Download — v0.6.3
 
 Scegli il programma di installazione per il tuo sistema operativo.
 
 | Piattaforma | Architettura / Pacchetto | Download |
 | --- | --- | --- |
-| macOS | Universale (Intel + Apple Silicon) | [Scarica DMG](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI_0.6.2_universal.dmg) |
-| Windows | x64 | [Scarica EXE](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI_0.6.2_x64-setup.exe) |
-| Linux | x64 — RPM | [Scarica RPM](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI-0.6.2-1.x86_64.rpm) |
-| Linux | x64 — AppImage | [Scarica AppImage](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI_0.6.2_amd64.AppImage) |
-| Linux | x64 — DEB | [Scarica DEB](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI_0.6.2_amd64.deb) |
+| macOS | Universale (Intel + Apple Silicon) | [Scarica DMG](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_universal.dmg) |
+| Windows | x64 | [Scarica EXE](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_x64-setup.exe) |
+| Linux | x64 — RPM | [Scarica RPM](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI-0.6.3-1.x86_64.rpm) |
+| Linux | x64 — AppImage | [Scarica AppImage](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_amd64.AppImage) |
+| Linux | x64 — DEB | [Scarica DEB](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_amd64.deb) |
 
 Per versioni più recenti e istruzioni di installazione, visita la [pagina ufficiale di download di Linkjob AI](https://www.linkjob.ai/downloads/).
 

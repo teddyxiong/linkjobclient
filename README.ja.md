@@ -116,17 +116,17 @@ Linkjob AI が不可視のデスクトップオーバーレイでリアルタイ
 
 > **Zoom のセットアップ:** 特定の画面共有設定が必要なのは Zoom デスクトップアプリのみです。[公式サイトの FAQ](https://www.linkjob.ai/) の設定手順に従い、セッション前にテストしてください。他のプラットフォームでは追加設定は不要です。
 
-## 📥 ダウンロード — v0.6.2
+## 📥 ダウンロード — v0.6.3
 
 お使いの OS に合ったインストーラーをお選びください。
 
 | プラットフォーム | アーキテクチャ / パッケージ | ダウンロード |
 | --- | --- | --- |
-| macOS | ユニバーサル（Intel + Apple Silicon） | [DMG をダウンロード](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI_0.6.2_universal.dmg) |
-| Windows | x64 | [EXE をダウンロード](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI_0.6.2_x64-setup.exe) |
-| Linux | x64 — RPM | [RPM をダウンロード](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI-0.6.2-1.x86_64.rpm) |
-| Linux | x64 — AppImage | [AppImage をダウンロード](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI_0.6.2_amd64.AppImage) |
-| Linux | x64 — DEB | [DEB をダウンロード](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI_0.6.2_amd64.deb) |
+| macOS | ユニバーサル（Intel + Apple Silicon） | [DMG をダウンロード](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_universal.dmg) |
+| Windows | x64 | [EXE をダウンロード](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_x64-setup.exe) |
+| Linux | x64 — RPM | [RPM をダウンロード](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI-0.6.3-1.x86_64.rpm) |
+| Linux | x64 — AppImage | [AppImage をダウンロード](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_amd64.AppImage) |
+| Linux | x64 — DEB | [DEB をダウンロード](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_amd64.deb) |
 
 新しいバージョンとインストール手順については、[公式 Linkjob AI ダウンロードページ](https://www.linkjob.ai/downloads/)をご覧ください。
 

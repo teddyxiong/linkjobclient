@@ -116,17 +116,17 @@ Linkjob AI 會在面試問題出現時即時理解，並提供清楚、結構化
 
 > **Zoom 設定：** 只有 Zoom 桌面應用程式需要特定的螢幕分享設定。請依照[官網 FAQ](https://www.linkjob.ai/) 的設定指引操作，並在面試前先行測試。其他平台不需要額外設定。
 
-## 📥 下載 — v0.6.2
+## 📥 下載 — v0.6.3
 
 選擇符合你作業系統的安裝程式。
 
 | 平台 | 架構 / 套件 | 下載 |
 | --- | --- | --- |
-| macOS | 通用（Intel + Apple Silicon） | [下載 DMG](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI_0.6.2_universal.dmg) |
-| Windows | x64 | [下載 EXE](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI_0.6.2_x64-setup.exe) |
-| Linux | x64 — RPM | [下載 RPM](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI-0.6.2-1.x86_64.rpm) |
-| Linux | x64 — AppImage | [下載 AppImage](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI_0.6.2_amd64.AppImage) |
-| Linux | x64 — DEB | [下載 DEB](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI_0.6.2_amd64.deb) |
+| macOS | 通用（Intel + Apple Silicon） | [下載 DMG](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_universal.dmg) |
+| Windows | x64 | [下載 EXE](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_x64-setup.exe) |
+| Linux | x64 — RPM | [下載 RPM](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI-0.6.3-1.x86_64.rpm) |
+| Linux | x64 — AppImage | [下載 AppImage](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_amd64.AppImage) |
+| Linux | x64 — DEB | [下載 DEB](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_amd64.deb) |
 
 如需較新版本與安裝說明，請造訪[官方 Linkjob AI 下載頁](https://www.linkjob.ai/downloads/)。
 

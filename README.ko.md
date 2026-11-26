@@ -116,17 +116,17 @@ Linkjob AI가 보이지 않는 데스크톱 오버레이에서 실시간 면접 
 
 > **Zoom 설정:** 특정 화면 공유 구성이 필요한 것은 Zoom 데스크톱 앱뿐입니다. [공식 웹사이트 FAQ](https://www.linkjob.ai/)의 설정 안내를 따르고 세션 전에 테스트하세요. 다른 플랫폼에서는 추가 설정이 필요하지 않습니다.
 
-## 📥 다운로드 — v0.6.2
+## 📥 다운로드 — v0.6.3
 
 운영체제에 맞는 설치 프로그램을 선택하세요.
 
 | 플랫폼 | 아키텍처 / 패키지 | 다운로드 |
 | --- | --- | --- |
-| macOS | 유니버설 (Intel + Apple Silicon) | [DMG 다운로드](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI_0.6.2_universal.dmg) |
-| Windows | x64 | [EXE 다운로드](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI_0.6.2_x64-setup.exe) |
-| Linux | x64 — RPM | [RPM 다운로드](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI-0.6.2-1.x86_64.rpm) |
-| Linux | x64 — AppImage | [AppImage 다운로드](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI_0.6.2_amd64.AppImage) |
-| Linux | x64 — DEB | [DEB 다운로드](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI_0.6.2_amd64.deb) |
+| macOS | 유니버설 (Intel + Apple Silicon) | [DMG 다운로드](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_universal.dmg) |
+| Windows | x64 | [EXE 다운로드](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_x64-setup.exe) |
+| Linux | x64 — RPM | [RPM 다운로드](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI-0.6.3-1.x86_64.rpm) |
+| Linux | x64 — AppImage | [AppImage 다운로드](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_amd64.AppImage) |
+| Linux | x64 — DEB | [DEB 다운로드](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_amd64.deb) |
 
 최신 버전과 설치 방법은 [공식 Linkjob AI 다운로드 페이지](https://www.linkjob.ai/downloads/)를 방문하세요.
 

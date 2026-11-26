@@ -116,17 +116,17 @@ Use Linkjob AI alongside meeting tools such as **Zoom, Google Meet, Microsoft Te
 
 > **Zoom setup:** Only the Zoom desktop app requires a specific screen-sharing configuration. Follow the setup guidance in the [official website FAQ](https://www.linkjob.ai/) and test it before your session. No additional setup is needed on other platforms.
 
-## 📥 Downloads — v0.6.2
+## 📥 Downloads — v0.6.3
 
 Choose the installer for your operating system.
 
 | Platform | Architecture / Package | Download |
 | --- | --- | --- |
-| macOS | Universal (Intel + Apple Silicon) | [Download DMG](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI_0.6.2_universal.dmg) |
-| Windows | x64 | [Download EXE](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI_0.6.2_x64-setup.exe) |
-| Linux | x64 — RPM | [Download RPM](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI-0.6.2-1.x86_64.rpm) |
-| Linux | x64 — AppImage | [Download AppImage](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI_0.6.2_amd64.AppImage) |
-| Linux | x64 — DEB | [Download DEB](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI_0.6.2_amd64.deb) |
+| macOS | Universal (Intel + Apple Silicon) | [Download DMG](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_universal.dmg) |
+| Windows | x64 | [Download EXE](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_x64-setup.exe) |
+| Linux | x64 — RPM | [Download RPM](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI-0.6.3-1.x86_64.rpm) |
+| Linux | x64 — AppImage | [Download AppImage](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_amd64.AppImage) |
+| Linux | x64 — DEB | [Download DEB](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_amd64.deb) |
 
 For newer versions and installation instructions, visit the [official Linkjob AI download page](https://www.linkjob.ai/downloads/).
 
