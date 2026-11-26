@@ -1,112 +1,158 @@
 🌐 [English](README.md) · [日本語](README.ja.md) · [Español](README.es.md) · [Italiano](README.it.md) · [العربية](README.ar.md) · [Polski](README.pl.md) · [繁體中文](README.zh-hant.md) · [한국어](README.ko.md) · [Français](README.fr.md) · [Português](README.pt.md)
 
-# Linkjob AI — Asistente de entrevistas con IA en tiempo real
+# Linkjob AI — Asistente de entrevistas con IA indetectable
 
-**Tu copiloto de entrevistas invisible para respuestas más claras y un soporte de programación más inteligente.**
+**Ayuda con IA en tiempo real para cada entrevista — completamente invisible, en todas las plataformas.**
 
 <div align="center">
 
-[![Descargas](https://img.shields.io/badge/Downloads-19,696-2563EB?style=for-the-badge&logo=download&logoColor=white)](https://www.linkjob.ai/downloads/)
-[![Pruebas gratuitas iniciadas](https://img.shields.io/badge/Free%20Trials%20Started-18,332-16A34A?style=for-the-badge&logo=rocket&logoColor=white)](./download.md)
+[![Ofertas recibidas](https://img.shields.io/badge/Offers%20Received-36,000%2B-2563EB?style=for-the-badge)](https://www.linkjob.ai/)
+[![Entrevistas superadas](https://img.shields.io/badge/Interviews%20Aced-172,800%2B-16A34A?style=for-the-badge)](https://www.linkjob.ai/)
+[![Idiomas](https://img.shields.io/badge/Languages-29%2B-7C3AED?style=for-the-badge)](https://www.linkjob.ai/)
+[![Empresas](https://img.shields.io/badge/Companies%20Landed-1,700%2B-F59E0B?style=for-the-badge)](https://www.linkjob.ai/)
 
-**19,696 descargas** · **18,332 pruebas gratuitas iniciadas**
+**36 000+ ofertas recibidas** · **172 800+ entrevistas superadas** · **29+ idiomas** · **1 700+ empresas**
 
 </div>
 
-Obtén orientación en tiempo real para las preguntas de la entrevista, convierte las capturas de pantalla de programación en soluciones prácticas y recibe sugerencias adaptadas a tu experiencia y al puesto que deseas.
+Probado a diario para mantenerse completamente invisible e indetectable en todas las plataformas de reuniones y evaluaciones.
 
-[Sitio web oficial](https://www.linkjob.ai/) · [Descargar Linkjob AI](https://www.linkjob.ai/downloads/) · [Planes y modelos de IA](https://www.linkjob.ai/pricing/)
+Obtén respuestas a las preguntas de la entrevista, analiza las capturas de pantalla de tus pruebas de programación y recibe asistencia discreta con IA durante las entrevistas en vivo.
 
-![Linkjob AI — Copiloto de entrevistas con IA invisible](https://images.linkjob.ai/images/features/interview-copilot-cover.webp)
+[Sitio web oficial](https://www.linkjob.ai/) · [Descargar la app](https://www.linkjob.ai/downloads/) · [Planes y precios](https://www.linkjob.ai/pricing/)
+
+![Linkjob AI — Asistente de entrevistas con IA indetectable](https://images.linkjob.ai/images/features/interview-copilot-cover.webp)
 
 ## ¿Qué es Linkjob AI?
 
-Linkjob AI es un **asistente de entrevistas con IA** de escritorio para entrevistas en vivo, evaluaciones de programación y práctica de entrevistas. Combina la comprensión de audio en tiempo real, el análisis de capturas de pantalla y respuestas de IA personalizadas en una interfaz flotante de escritorio.
+Linkjob AI es un **asistente de entrevistas con IA** de escritorio para entrevistas en vivo, evaluaciones de programación y práctica de entrevistas. Ofrece respuestas en tiempo real mediante una superposición invisible que funciona con cualquier plataforma de reuniones o prueba en el navegador, o directamente en tu teléfono con el **Dual-Device Mode**.
 
-Ya sea que expliques un proyecto anterior, trabajes en un algoritmo o respondas una pregunta de diseño de sistemas, Linkjob AI te ayuda a organizar tus ideas y comunicar tu enfoque.
+Ya sea que expliques un proyecto anterior, trabajes en un algoritmo o respondas una pregunta de diseño de sistemas, Linkjob AI te ayuda a organizar tus ideas y a comunicar tu enfoque con claridad y confianza.
 
 Disponible para **Windows, macOS y Linux**.
 
-## ✨ Características principales
+## ✨ Por qué elegir Linkjob AI
 
-### Asistencia en entrevistas en tiempo real
+### 100 % invisible e indetectable
 
-Recibe sugerencias estructuradas a medida que surgen las preguntas de la entrevista. Úsalas para identificar los puntos clave, organizar tu respuesta y mantener el ritmo ante las preguntas de seguimiento.
+El AI Interview Copilot funciona en modo completamente discreto en todas las plataformas, ejecutándose silenciosamente en segundo plano incluso durante el uso compartido de pantalla. Sin interfaz visible ni ventanas emergentes, puedes aprovechar el apoyo de la IA en tiempo real sin preocuparte por el seguimiento ocular ni la detección de sistemas de supervisión. Mantén la concentración y la confianza mientras la entrevista transcurre con total naturalidad.
+
+### Dual-Device Mode — respuestas en tu teléfono
+
+**Nuevo.** Envía las respuestas de la IA a tu teléfono mientras la app de escritorio sigue ejecutándose en segundo plano, para evitar la detección por parte del software de monitorización del escritorio. La misma asistencia en vivo, en una segunda pantalla.
+
+### Funciona en cualquier plataforma
+
+Linkjob AI es invisible en todas las plataformas de reuniones y evaluaciones. Solo la **app de escritorio de Zoom** requiere configurar una opción una vez; en el resto de plataformas no hace falta ninguna configuración adicional.
+
+### Respuestas que suenan a ti
+
+Añade tu currículum y los detalles del puesto para obtener respuestas adaptadas a tu experiencia, tus habilidades y el rol que buscas. Linkjob AI se basa en tu trayectoria para sugerir ejemplos relevantes y un lenguaje natural, de modo que mantengas respuestas concretas y coherentes ante las preguntas de seguimiento.
+
+### Mantén el foco en la conversación
+
+Ten la orientación útil siempre a mano sin perder el contacto visual ni el hilo de la conversación. Ajusta tu IA para que las respuestas sigan siendo pertinentes, sustanciosas y relevantes.
+
+## 🚀 Capacidades principales
+
+### Orientación en tiempo real durante la entrevista
+
+Linkjob AI entiende las preguntas de la entrevista a medida que surgen y ofrece una guía clara y estructurada para ayudarte a organizar tu respuesta y seguir el ritmo de las preguntas de seguimiento.
 
 Explora el [copiloto de entrevistas con IA en tiempo real](https://www.linkjob.ai/interview-copilot/).
 
-### Ayuda de programación basada en capturas de pantalla
+### Copiloto para entrevistas de programación
 
-Captura las preguntas de programación que aparecen en tu pantalla y obtén ayuda para desglosar el problema, elegir un enfoque, generar código, depurar errores y mejorar el rendimiento. Trabaja con algoritmos, casos límite y explicaciones técnicas con orientación de IA.
+Obtén ayuda en tiempo real con preguntas de programación, algoritmos, complejidad y casos límite, depuración, optimización de código y decisiones de diseño de sistemas. El copiloto permanece invisible ante:
+
+- **Compartir pantalla** — sin ventanas ni superposiciones visibles durante sesiones compartidas;
+- **Detección de pestaña activa** — una app nativa de escritorio que se ejecuta fuera del entorno del navegador;
+- **Seguimiento del cursor** — cursor invisible y atajos globales indetectables;
+- **Monitorización por webcam** — una ventana flotante transparente que puedes arrastrar sobre tu editor de código.
+
+También admite **captura de pantalla en vivo** (pantalla completa y parcial), varias capturas en una misma conversación y respuestas contextuales a las preguntas de seguimiento del entrevistador.
 
 Explora el [asistente de entrevistas de programación con IA](https://www.linkjob.ai/coding-interview-copilot/).
 
-### Respuestas personalizadas según tu perfil
+### Asistencia para pruebas en navegador y cuestionarios online
 
-Añade tu currículum y la descripción del puesto para dar contexto relevante a la IA. Personaliza tus indicaciones para que las sugerencias sean más específicas para tu experiencia, el puesto objetivo y el escenario de la entrevista.
+Usa Linkjob AI durante evaluaciones en navegador y cuestionarios online para obtener análisis instantáneos del problema y soluciones estructuradas, sin ser detectado en la plataforma de evaluación.
 
-### Superposición de escritorio sigilosa
+### Práctica de entrevistas simuladas con IA
 
-Mantén la orientación cerca de tu área de trabajo con una superposición traslúcida y móvil, diseñada para permanecer fuera de las capturas de pantalla y grabación compatibles.
+Practica entrevistas conductuales, técnicas y de programación con comentarios de la IA antes de la real, y perfecciona tus respuestas con tu currículum y el rol objetivo en contexto.
 
-La configuración específica de la plataforma es importante. Completa la configuración necesaria y prueba tu configuración de pantalla compartida antes de usarla.
+### Smart Screenshot
 
-### Múltiples modelos de IA
+Captura solo la parte de la pantalla que importa y envíala a la conversación para obtener un contexto rápido y preciso.
 
-Elige entre los modelos GPT, Claude, Gemini y Grok disponibles con tu plan. Cambia entre los modelos incluidos para equilibrar la velocidad de respuesta y la profundidad del razonamiento.
+### Modelos de IA de última generación
 
-Consulta el [catálogo de modelos y los detalles del plan](https://www.linkjob.ai/pricing/).
+Funciona con modelos de primer nivel de OpenAI, Anthropic, Google y xAI — incluidas las familias GPT, Claude, Gemini y Grok — con uso ilimitado en los planes de pago. Cambia de modelo para equilibrar la velocidad de respuesta y la profundidad de razonamiento.
 
-### Entrevistas conductuales, técnicas y simuladas
+Consulta el [catálogo actual de modelos y los detalles de los planes](https://www.linkjob.ai/pricing/).
 
-Usa el asistente para preguntas conductuales, retos de programación, discusiones de diseño de sistemas y práctica de entrevistas simuladas. Adapta tu preparación al formato de la entrevista y al puesto.
+### Preparado para cualquier formato de entrevista
+
+Obtén soporte adaptado para entrevistas generales, de programación, telefónicas, HireVue, conductuales, técnicas, de diseño de sistemas, de consultoría, financieras y cuantitativas.
 
 ### Soporte multilingüe
 
-Obtén asistencia en entrevistas en tiempo real en varios idiomas, con respuestas adaptadas al idioma de tu entrevista.
+Obtén asistencia en tiempo real en **más de 29 idiomas**, con respuestas adaptadas al idioma de tu entrevista.
 
 ![Linkjob AI ofreciendo orientación personalizada en entrevistas](https://www.linkjob.ai/images/realtimeinterview.png)
 
 ## 🎥 Mira la demostración
 
-Descubre cómo Linkjob AI ofrece asistencia en tiempo real en una superposición de escritorio.
+Descubre cómo Linkjob AI ofrece asistencia en tiempo real en una superposición de escritorio invisible.
 
 [![Mira la demostración del copiloto de entrevistas Linkjob AI](https://img.youtube.com/vi/jARS4DQHrOA/maxresdefault.jpg)](https://www.youtube.com/watch?v=jARS4DQHrOA)
 
-Para tutoriales paso a paso que cubren la aplicación, el copiloto de programación, el copiloto en tiempo real y la configuración de Zoom, Google Meet, Teams, Webex, Lark, CoderPad y HackerRank, consulta [**Tutoriales en vídeo**](./howto.md).
+Para tutoriales paso a paso que cubren la app, el copiloto de programación, el copiloto en tiempo real, el Dual-Device Mode y la configuración de Zoom, Google Meet, Teams, Webex, Lark, CoderPad y HackerRank, consulta [**Tutoriales en vídeo**](./howto.md).
 
 ## 💻 Plataformas compatibles
 
 Usa Linkjob AI junto a herramientas de reuniones como **Zoom, Google Meet, Microsoft Teams, Cisco Webex y Lark**, y entornos de programación como **HackerRank, CodeSignal y CoderPad**.
 
-> **Configuración de Zoom:** Zoom requiere una configuración específica de pantalla compartida. Sigue la guía de configuración en las [preguntas frecuentes del sitio web oficial](https://www.linkjob.ai/) y pruébalo antes de tu sesión.
+> **Configuración de Zoom:** solo la app de escritorio de Zoom requiere una configuración específica de pantalla compartida. Sigue la guía de configuración en las [preguntas frecuentes del sitio web oficial](https://www.linkjob.ai/) y pruébalo antes de tu sesión. En las demás plataformas no se necesita configuración adicional.
 
-## 📥 Descargas — v0.6.0
+## 📥 Descargas — v0.6.2
 
-Elige el instalador que coincida con tu sistema operativo y procesador.
+Elige el instalador para tu sistema operativo.
 
 | Plataforma | Arquitectura / Paquete | Descarga |
 | --- | --- | --- |
-| macOS | Intel — x64 | [Descargar DMG](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.0/LinkjobAI_0.6.0_x64.dmg) |
-| macOS | Apple Silicon — ARM64 | [Descargar DMG](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.0/LinkjobAI_0.6.0_aarch64.dmg) |
-| Windows | x64 | [Descargar EXE](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.0/LinkjobAI_0.6.0_x64-setup.exe) |
-| Linux | x64 — RPM | [Descargar RPM](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.0/LinkjobAI-0.6.0-1.x86_64.rpm) |
-| Linux | x64 — AppImage | [Descargar AppImage](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.0/LinkjobAI_0.6.0_amd64.AppImage) |
-| Linux | x64 — DEB | [Descargar DEB](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.0/LinkjobAI_0.6.0_amd64.deb) |
+| macOS | Universal (Intel + Apple Silicon) | [Descargar DMG](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI_0.6.2_universal.dmg) |
+| Windows | x64 | [Descargar EXE](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI_0.6.2_x64-setup.exe) |
+| Linux | x64 — RPM | [Descargar RPM](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI-0.6.2-1.x86_64.rpm) |
+| Linux | x64 — AppImage | [Descargar AppImage](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI_0.6.2_amd64.AppImage) |
+| Linux | x64 — DEB | [Descargar DEB](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.2/LinkjobAI_0.6.2_amd64.deb) |
 
 Para versiones más recientes e instrucciones de instalación, visita la [página oficial de descargas de Linkjob AI](https://www.linkjob.ai/downloads/).
 
 ## 🚀 Inicio rápido
 
 1. **Descarga e instala** la versión que coincida con tu sistema.
-2. **Abre Linkjob AI** y sigue las instrucciones del panel para activar tu prueba o plan.
-3. **Configura el audio y los permisos** para las funciones que usarás, incluida la entrada de audio y la captura de pantalla.
-4. **Elige un modelo de IA** incluido en tu plan y añade tu currículum, descripción del puesto o instrucciones personalizadas.
-5. **Ejecuta una sesión de práctica** para comprobar la captura de audio, la asistencia con capturas, la calidad de las respuestas y el comportamiento al compartir pantalla.
+2. **Abre Linkjob AI e inicia sesión**, luego elige un plan o activa tu suscripción.
+3. **Configura el audio y los permisos** de las funciones que usarás: entrada de audio, captura de pantalla y la configuración de Zoom si corresponde.
+4. **Elige un modelo de IA** incluido en tu plan y añade tu currículum, la descripción del puesto o instrucciones personalizadas.
+5. **Elige tu modo**: superposición de entrevista en vivo, Dual-Device Mode o copiloto de programación.
+6. **Realiza una sesión de práctica** para comprobar la captura de audio, la asistencia con capturas, la calidad de las respuestas y el comportamiento al compartir pantalla.
 
-Antes de tu primera sesión real, repasa la [**Configuración necesaria**](./required-setup.md): configuración de Zoom, salida de audio, VPN y preparación del system prompt.
+Antes de tu primera sesión real, revisa la [**Configuración necesaria**](./required-setup.md): configuración de Zoom, salida de audio, VPN y preparación del system prompt.
 
-Actualmente hay disponible una **prueba gratuita de 30 minutos**. Visita la [página de precios](https://www.linkjob.ai/pricing/) para obtener información sobre la prueba y las opciones de planes.
+## 💳 Planes y precios
+
+Hay opciones de pago único, mensual, trimestral, anual y de por vida. Todos los planes de pago incluyen asistencia en entrevistas en tiempo real ilimitada, uso ilimitado del Dual-Device, copiloto de programación ilimitado, entrevistas simuladas con IA, asistencia en cuestionarios online, Smart Screenshot y modo invisible.
+
+| Plan | Precio | Facturación |
+| --- | --- | --- |
+| Mensual | $99.99/mes | Facturado mensualmente |
+| Trimestral | $69.99/mes | Facturado trimestralmente — ahorra 30 % |
+| Anual | $29.99/mes | Facturado anualmente — ahorra 70 % |
+| De por vida | $999.99 | Pago único, acceso de por vida |
+
+Visita la [página de precios](https://www.linkjob.ai/pricing/) para conocer los modelos, funciones, política de reembolso y detalles de los planes más recientes.
 
 ## 🔒 Privacidad y uso responsable
 
@@ -116,9 +162,11 @@ Usa Linkjob AI de acuerdo con las normas de tu entrevista, evaluación u organiz
 
 ## 💬 Comentarios y soporte
 
-Para errores o solicitudes de funciones, abre un issue en este repositorio e incluye tu sistema operativo, versión de la aplicación y los pasos para reproducir el problema.
+Para errores o solicitudes de funciones, abre un issue en este repositorio e incluye tu sistema operativo, versión de la app y los pasos para reproducir el problema.
 
 Para asistencia con la cuenta, activación o facturación, contacta a [support@linkjob.ai](mailto:support@linkjob.ai). No publiques claves de licencia, datos de pago u otra información privada en issues públicos.
+
+¿Necesitas ayuda con las descargas o la configuración? Únete a la [comunidad de Discord](https://discord.com/invite/PfrcRpt7Sv).
 
 ¿Te resultó útil Linkjob AI? **Dale una estrella al repositorio.** ⭐
 
