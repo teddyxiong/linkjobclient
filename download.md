@@ -2,15 +2,15 @@
 
 Choose the installer for your operating system.
 
-## Downloads — v0.6.3
+## Downloads — v0.6.4
 
 | Platform | Architecture / Package | Download |
 | --- | --- | --- |
-| macOS | Universal (Intel + Apple Silicon) | [Download DMG](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_universal.dmg) |
-| Windows | x64 | [Download EXE](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_x64-setup.exe) |
-| Linux | x64 — RPM | [Download RPM](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI-0.6.3-1.x86_64.rpm) |
-| Linux | x64 — AppImage | [Download AppImage](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_amd64.AppImage) |
-| Linux | x64 — DEB | [Download DEB](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_amd64.deb) |
+| macOS | Universal (Intel + Apple Silicon) | [Download DMG](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.4/LinkjobAI_0.6.4_universal.dmg) |
+| Windows | x64 | [Download EXE](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.4/LinkjobAI_0.6.4_x64-setup.exe) |
+| Linux | x64 — RPM | [Download RPM](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.4/LinkjobAI-0.6.4-1.x86_64.rpm) |
+| Linux | x64 — AppImage | [Download AppImage](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.4/LinkjobAI_0.6.4_amd64.AppImage) |
+| Linux | x64 — DEB | [Download DEB](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.4/LinkjobAI_0.6.4_amd64.deb) |
 
 For newer versions and installation instructions, visit the [official Linkjob AI download page](https://www.linkjob.ai/downloads/).
 

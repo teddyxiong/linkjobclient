@@ -116,17 +116,17 @@ Używaj Linkjob AI wraz z narzędziami do spotkań, takimi jak **Zoom, Google Me
 
 > **Konfiguracja Zoom:** tylko aplikacja desktopowa Zoom wymaga określonej konfiguracji udostępniania ekranu. Postępuj zgodnie z instrukcjami w [FAQ oficjalnej strony](https://www.linkjob.ai/) i przetestuj ją przed sesją. Na pozostałych platformach dodatkowa konfiguracja nie jest potrzebna.
 
-## 📥 Pobieranie — v0.6.3
+## 📥 Pobieranie — v0.6.4
 
 Wybierz instalator dla swojego systemu operacyjnego.
 
 | Platforma | Architektura / Pakiet | Pobieranie |
 | --- | --- | --- |
-| macOS | Uniwersalny (Intel + Apple Silicon) | [Pobierz DMG](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_universal.dmg) |
-| Windows | x64 | [Pobierz EXE](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_x64-setup.exe) |
-| Linux | x64 — RPM | [Pobierz RPM](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI-0.6.3-1.x86_64.rpm) |
-| Linux | x64 — AppImage | [Pobierz AppImage](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_amd64.AppImage) |
-| Linux | x64 — DEB | [Pobierz DEB](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_amd64.deb) |
+| macOS | Uniwersalny (Intel + Apple Silicon) | [Pobierz DMG](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.4/LinkjobAI_0.6.4_universal.dmg) |
+| Windows | x64 | [Pobierz EXE](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.4/LinkjobAI_0.6.4_x64-setup.exe) |
+| Linux | x64 — RPM | [Pobierz RPM](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.4/LinkjobAI-0.6.4-1.x86_64.rpm) |
+| Linux | x64 — AppImage | [Pobierz AppImage](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.4/LinkjobAI_0.6.4_amd64.AppImage) |
+| Linux | x64 — DEB | [Pobierz DEB](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.4/LinkjobAI_0.6.4_amd64.deb) |
 
 Aby uzyskać nowsze wersje i instrukcje instalacji, odwiedź [oficjalną stronę pobierania Linkjob AI](https://www.linkjob.ai/downloads/).
 

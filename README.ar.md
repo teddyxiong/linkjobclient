@@ -116,17 +116,17 @@ Linkjob AI غير مرئي على جميع منصات الاجتماعات وا�
 
 > **إعداد Zoom:** تطبيق Zoom لسطح المكتب وحده يتطلب إعدادًا محددًا لمشاركة الشاشة. اتبع إرشادات الإعداد في [الأسئلة الشائعة للموقع الرسمي](https://www.linkjob.ai/) واختبرها قبل جلستك. لا حاجة لأي إعداد إضافي على المنصات الأخرى.
 
-## 📥 التنزيلات — v0.6.3
+## 📥 التنزيلات — v0.6.4
 
 اختر برنامج التثبيت المناسب لنظام التشغيل لديك.
 
 | المنصة | البنية / الحزمة | التنزيل |
 | --- | --- | --- |
-| macOS | شامل (Intel + Apple Silicon) | [تنزيل DMG](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_universal.dmg) |
-| Windows | x64 | [تنزيل EXE](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_x64-setup.exe) |
-| Linux | x64 — RPM | [تنزيل RPM](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI-0.6.3-1.x86_64.rpm) |
-| Linux | x64 — AppImage | [تنزيل AppImage](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_amd64.AppImage) |
-| Linux | x64 — DEB | [تنزيل DEB](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.3/LinkjobAI_0.6.3_amd64.deb) |
+| macOS | شامل (Intel + Apple Silicon) | [تنزيل DMG](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.4/LinkjobAI_0.6.4_universal.dmg) |
+| Windows | x64 | [تنزيل EXE](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.4/LinkjobAI_0.6.4_x64-setup.exe) |
+| Linux | x64 — RPM | [تنزيل RPM](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.4/LinkjobAI-0.6.4-1.x86_64.rpm) |
+| Linux | x64 — AppImage | [تنزيل AppImage](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.4/LinkjobAI_0.6.4_amd64.AppImage) |
+| Linux | x64 — DEB | [تنزيل DEB](https://github.com/teddyxiong/linkjobclient/releases/download/app-v0.6.4/LinkjobAI_0.6.4_amd64.deb) |
 
 للحصول على إصدارات أحدث وتعليمات التثبيت، تفضّل بزيارة [صفحة التنزيل الرسمية لـ Linkjob AI](https://www.linkjob.ai/downloads/).
 
